@@ -1,0 +1,2 @@
+http://www.w3school.com.cn/ajax/
+http://www.w3school.com.cn/php/php_ajax_intro.asp  //此地址是专门讲php里面使用ajax
